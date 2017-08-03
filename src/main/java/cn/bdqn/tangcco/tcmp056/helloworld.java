@@ -9,5 +9,7 @@ public class helloworld {
     @Test
     public void hello() {
         System.out.println("hello world");
+        System.out.println("我们");
+        System.out.println("社会我蒙哥");
     }
 }
